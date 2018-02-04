@@ -1,0 +1,6 @@
+c:\users\techcom\documents\visual studio 2015\Projects\Algoritme\Algoritme\bin\Debug\Algoritme.exe.config
+c:\users\techcom\documents\visual studio 2015\Projects\Algoritme\Algoritme\bin\Debug\Algoritme.exe
+c:\users\techcom\documents\visual studio 2015\Projects\Algoritme\Algoritme\bin\Debug\Algoritme.pdb
+c:\users\techcom\documents\visual studio 2015\Projects\Algoritme\Algoritme\obj\Debug\Algoritme.csprojResolveAssemblyReference.cache
+c:\users\techcom\documents\visual studio 2015\Projects\Algoritme\Algoritme\obj\Debug\Algoritme.exe
+c:\users\techcom\documents\visual studio 2015\Projects\Algoritme\Algoritme\obj\Debug\Algoritme.pdb
